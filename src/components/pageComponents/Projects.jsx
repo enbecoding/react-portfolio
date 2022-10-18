@@ -49,7 +49,7 @@ const Projects = () => {
               target="_blank"
             > Github {""} 
             </a>
-            {""}|{""}
+            {""}{""}
             <a 
               href="https://hj-bmi-calculator.netlify.app/"
               rel="noreferrer"

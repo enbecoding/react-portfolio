@@ -6,11 +6,9 @@ const Header = () => {
   return (
     <>
     <header>
-      <h2>Brandon Hoang</h2>
-      <button className={styles.nav_btn}>Home</button>
-          <button className={styles.nav_btn}>About</button>
-          <button className={styles.nav_btn}>Projects</button>
-          <button className={styles.nav_btn}>Contact</button>
+      <h2></h2>
+          <button className={styles.nav_btn}>Contact Me
+          </button>
     </header>
     </>      
   )

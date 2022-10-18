@@ -8,7 +8,7 @@ const About = () => {
       <br />
       It was a incredibly challenging yet wondeful experience that shaped me into a developer in pursuit of a long term position in the field. 
       <br />
-      After a fast 16 weeks, I can confidently say I have a deeper understanding of clientside and server-side programming 
+      After a fast 16 weeks, I can confidently say I have a deeper understanding of client-side and server-side programming 
       <br />
       which I learned through various projects.</p>
       <h3>My Stacks</h3>
