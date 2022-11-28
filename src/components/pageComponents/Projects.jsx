@@ -43,20 +43,49 @@ const Projects = () => {
               <li>CSS</li>
               <li>JavaScript</li>
             </ul>
+            <div className={styles.project_card_links}>
             <a 
               href="https://github.com/enbecoding/bmi-calculator"
               rel="noreferrer"
               target="_blank"
             > Github {""} 
             </a>
-            {""}{""}
+            {""}|{""}
             <a 
               href="https://hj-bmi-calculator.netlify.app/"
               rel="noreferrer"
               target="_blank"
-            >Live Demo
-
+            > Live Demo
             </a>
+            </div>
+          </div>
+          <div className={styles.project_card}>
+            <h3>GSS App</h3>
+            <p>My Specializations capstone project for Devmountain where I utilized React to create a fun project that allows a user to track their calorie intake day to day. </p>
+            <strong>Techs I Used:</strong>
+            <ul>
+              <li>React</li>
+              <li>CSS Modules</li>
+              <li>JavaScript</li>
+              <li>MySQL</li>
+              <li>Express</li>
+              <li>Axios</li>
+            </ul>
+            <div className={styles.project_card_links}>
+            <a 
+              href="https://github.com/enbecoding/react-capstone"
+              rel="noreferrer"
+              target="_blank"
+            > Github {""} 
+            </a>
+            {""}|{""}
+            <a 
+              href="https://youtu.be/TF4Wcbzix-Q"
+              rel="noreferrer"
+              target="_blank"
+            > Video Demo
+            </a>
+            </div>
           </div>
       </div>
     </div>
