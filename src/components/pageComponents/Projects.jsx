@@ -70,6 +70,7 @@ const Projects = () => {
               <li>MySQL</li>
               <li>Express</li>
               <li>Axios</li>
+              <li>Firebase</li>
             </ul>
             <div className={styles.project_card_links}>
             <a 
