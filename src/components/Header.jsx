@@ -8,7 +8,7 @@ const Header = () => {
     <>
     <header>
         <a 
-          href="https://docs.google.com/document/d/1NAVauXftuvXuhBgkjuLIgZ6KqKdRp-OFTONf3Cjk6fk/edit"
+          href="https://docs.google.com/document/d/1TNWokYR-gKVqrT13RF0wWHsstdcHyxXXeKgBH25d4-o/edit?usp=sharing"
           rel="noreferrer"
           target="_blank"
           className={styles.nav_btn}
