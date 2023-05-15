@@ -37,7 +37,7 @@ const Projects = () => {
         <div className={styles.project_card}>
             <h3>Asteroids</h3>
             <p>Here is a classic game where a user plays a spaceship and destroys Asteroids while attempting to survive</p>
-            <strong>Techs We Used:</strong>
+            <strong>Techs I Used:</strong>
             <ul>
               <li>HTML Canvas</li>
               <li>JavaScript</li>
