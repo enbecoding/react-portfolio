@@ -35,24 +35,23 @@ const Projects = () => {
           </div>
         </div>
         <div className={styles.project_card}>
-            <h3>BMI Calculator</h3>
-            <p>Here is a fun and simple react project a classmate and I made where a user can input their height, weight and age and receive their current BMI</p>
+            <h3>Asteroids</h3>
+            <p>Here is a classic game where a user plays a spaceship and destroys Asteroids while attempting to survive</p>
             <strong>Techs We Used:</strong>
             <ul>
-              <li>React</li>
-              <li>CSS</li>
+              <li>HTML Canvas</li>
               <li>JavaScript</li>
             </ul>
             <div className={styles.project_card_links}>
             <a 
-              href="https://github.com/enbecoding/bmi-calculator"
+              href="https://github.com/enbecoding/asteroids-js"
               rel="noreferrer"
               target="_blank"
             > Github {""} 
             </a>
             {""}|{""}
             <a 
-              href="https://hj-bmi-calculator.netlify.app/"
+              href="https://enbecodes-asteroids.netlify.app/"
               rel="noreferrer"
               target="_blank"
             > Live Demo
